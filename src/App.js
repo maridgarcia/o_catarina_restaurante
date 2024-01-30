@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <Header />
       <HeroPage />
-      <AboutUs />
       <OurServices />
+      <AboutUs />
       <Location />
       <Footer />
     </div>
