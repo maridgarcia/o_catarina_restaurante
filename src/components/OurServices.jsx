@@ -4,7 +4,7 @@ import { IoFastFood  } from "@react-icons/all-files/io5/IoFastFood";
 function OurServices() {
     const style = { color: "white", fontSize: "3em", display: "block", margin: "auto" }
     return (
-        <div className="flex flex-col md:flex-row bg-slate-900 text-white">
+        <div className="flex flex-col md:flex-row bg-slate-900 text-white py-16">
             <div className="w-full md:w-1/3 p-4 text-center">
                 <FaUtensils style={style}/>
                 <h3 className="text-xl font-semibold mb-1">Buffet variado</h3>
