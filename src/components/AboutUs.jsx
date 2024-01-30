@@ -3,7 +3,7 @@ function AboutUs() {
       <section className="px-3 py-5 bg-slate-900 lg:py-10 text-white">
           <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5">
             <div className="order-1 lg:order-2 flex flex-col ">
-              <h3 className="mb-4 text-4xl font-semibold">Sobre nós</h3>
+              <h3 className="mb-4 text-4xl font-semibold font-serif">Sobre nós</h3>
               <p className="">Bem-vindo ao nosso cantinho à beira-mar.</p>
               <p>Somos um restaurante familiar, apaixonados por comida caseira e hospitalidade calorosa.</p>
               <p>Originários de Santa Catarina, trazemos o sabor autêntico do litoral para o seu prato.</p>

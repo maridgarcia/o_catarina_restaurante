@@ -3,7 +3,6 @@ import HeroPage from "./components/HeroPage";
 import AboutUs from "./components/AboutUs";
 import OurServices from "./components/OurServices";
 import Location from "./components/Location";
-import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
       <OurServices />
       <AboutUs />
       <Location />
-      <Footer />
     </div>
   );
 }

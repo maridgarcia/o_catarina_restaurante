@@ -6,18 +6,18 @@ function Location() {
         <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5">
           <div className="order-2 lg:order-1 flex flex-col justify-items-center">
             <div>
-              <p className="font-semibold text-4xl">Horário de Funcionamento</p>
+              <p className="font-semibold text-4xl font-serif">Horário de Funcionamento</p>
               <p className="text-sm mb-3">Todos os dias das 9h às 15h e durante a alta temporada, das 07h às 22h</p>
             </div>
             
             <div>
-              <p className="font-semibold text-4xl">Endereço</p>
+              <p className="font-semibold text-4xl font-serif">Endereço</p>
               <p className="text-sm mb-3">Rua Uruguai, 43 – Balneário Nereidas, Guaratuba</p>
             </div>
             
-            <p className="font-semibold text-4xl">Entre em contato</p>
+            <p className="font-semibold text-4xl font-serif">Entre em contato</p>
             <div className="flex items-center space-x-2 mt-2">
-              <a href="https://wa.me/41998988101"><FaWhatsapp className="text-3xl" /></a>
+              <a href="https://wa.me/41998988101" className="hover:scale-110"><FaWhatsapp className="text-3xl" /></a>
               <p className="text-sm">(41) 99898-8101</p>
             </div>
           
