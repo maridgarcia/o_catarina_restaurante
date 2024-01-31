@@ -2,7 +2,7 @@ import { FaWhatsapp } from '@react-icons/all-files/fa/FaWhatsapp';
 
 function Location() {
     return (
-      <section className="px-3 py-5 bg-slate-900 lg:py-10 text-white">
+      <section className="px-3 py-5 bg-red-600 lg:py-10 text-white">
         <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5">
           <div className="order-2 lg:order-1 flex flex-col justify-items-center">
             <div>
@@ -17,7 +17,7 @@ function Location() {
             
             <p className="font-semibold text-4xl font-serif">Entre em contato</p>
             <div className="flex items-center space-x-2 mt-2">
-              <a href="https://wa.me/41998988101" className="hover:scale-110"><FaWhatsapp className="text-3xl" /></a>
+              <a href="https://wa.me/41998988101" className="hover:scale-110 duration-200"><FaWhatsapp className="text-3xl" /></a>
               <p className="text-sm">(41) 99898-8101</p>
             </div>
           
