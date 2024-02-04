@@ -1,6 +1,6 @@
 function AboutUs() {
     return (
-      <section className="px-3 py-5 bg-slate-900 lg:py-10 text-white">
+      <section className="px-3 py-5 bg-red-600 lg:py-10 text-white">
           <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5">
             <div className="order-1 lg:order-2 flex flex-col ">
               <h3 className="mb-4 text-4xl font-semibold font-serif">Sobre nós</h3>
