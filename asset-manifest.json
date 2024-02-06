@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f930e99f.css",
-    "main.js": "/static/js/main.c7c8317c.js",
-    "static/js/787.ab933987.chunk.js": "/static/js/787.ab933987.chunk.js",
-    "static/media/pexels-photo-2233730.jpg": "/static/media/pexels-photo-2233730.d6eef94ff5197e4f31d4.jpg",
-    "static/media/pexels-photo-4007053.jpeg": "/static/media/pexels-photo-4007053.e648a6b29eedac2c4f43.jpeg",
-    "index.html": "/index.html",
-    "main.f930e99f.css.map": "/static/css/main.f930e99f.css.map",
-    "main.c7c8317c.js.map": "/static/js/main.c7c8317c.js.map",
-    "787.ab933987.chunk.js.map": "/static/js/787.ab933987.chunk.js.map"
+    "main.css": "/o_catarina_restaurante/static/css/main.b54400b4.css",
+    "main.js": "/o_catarina_restaurante/static/js/main.a0db2cd0.js",
+    "static/js/787.ab933987.chunk.js": "/o_catarina_restaurante/static/js/787.ab933987.chunk.js",
+    "static/media/pexels-photo-2233730.jpg": "/o_catarina_restaurante/static/media/pexels-photo-2233730.d6eef94ff5197e4f31d4.jpg",
+    "static/media/pexels-photo-4007053.jpeg": "/o_catarina_restaurante/static/media/pexels-photo-4007053.e648a6b29eedac2c4f43.jpeg",
+    "index.html": "/o_catarina_restaurante/index.html",
+    "main.b54400b4.css.map": "/o_catarina_restaurante/static/css/main.b54400b4.css.map",
+    "main.a0db2cd0.js.map": "/o_catarina_restaurante/static/js/main.a0db2cd0.js.map",
+    "787.ab933987.chunk.js.map": "/o_catarina_restaurante/static/js/787.ab933987.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f930e99f.css",
-    "static/js/main.c7c8317c.js"
+    "static/css/main.b54400b4.css",
+    "static/js/main.a0db2cd0.js"
   ]
 }
