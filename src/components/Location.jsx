@@ -12,7 +12,7 @@ function Location() {
             
             <div>
               <p className="font-semibold text-4xl font-serif">Endereço</p>
-              <p className="text-sm mb-3">Avenida Visconde Rio Branco, 2000 – Balneário Nereidas, Guaratuba</p>
+              <p className="text-sm mb-3">Avenida Visconde Rio Branco, 5000 – Balneário Nereidas, Guaratuba</p>
             </div>
             
             <p className="font-semibold text-4xl font-serif">Entre em contato</p>
