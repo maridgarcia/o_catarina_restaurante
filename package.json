@@ -1,6 +1,6 @@
 {
   "name": "restaurant_project",
-  "homepage": "https://maridgarcia.github.io/o_catarina_restaurante/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
