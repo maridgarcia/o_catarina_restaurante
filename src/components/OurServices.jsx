@@ -16,7 +16,7 @@ function OurServices() {
                 <p className="text-white">Na alta temporada, delicie-se com lanches e porções</p>
             </div>
             <div className="w-full md:w-1/3 p-4 text-center hover:scale-110 duration-200">
-                <svg style={style} xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home-heart" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <svg style={style} xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-home-heart" width="1em" height="1em" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                     <path d="M21 12l-9 -9l-9 9h2v7a2 2 0 0 0 2 2h6"/>
                     <path d="M9 21v-6a2 2 0 0 1 2 -2h2c.39 0 .754 .112 1.061 .304" />
